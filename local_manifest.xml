@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+        <!-- Remote -->
+        <remote name="MeAbidin" fetch="https://github.com/MeAbidin" />
+
+        <!-- Device Trees -->
+        <project path="device/realme/RMX2020" name="device_realme_RMX2020" remote="MeAbidin" revision="Qassa-1" />
+
+	<!-- Vendor Trees -->
+        <project path="vendor/realme/RMX2020" name="vendor_realme_RMX2020" remote="MeAbidin" revision="Qassa" />
+
+	<!-- Kernel Trees -->
+        <project path="kernel/realme/RMX2020" name="kernel_realme_RMX2020" remote="MeAbidin" revision="main" />
+
+</manifest>
