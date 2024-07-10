@@ -5,7 +5,7 @@
         <remote name="origin" fetch="https://github.com/minusiq" />
 
         <!-- Device Trees -->
-        <project path="device/realme/RMX2020" name="android_device_realme_RMX2020-Q" remote="origin" revision="Qassa-1" />
+        <project path="device/realme/RMX2020" name="android_device_realme_RMX2020-Q" remote="origin" revision="nad" />
 
 	<!-- Vendor Trees -->
         <project path="vendor/realme/RMX2020" name="android_vendor_realme_RMX2020-Q" remote="origin" revision="Qassa" />
