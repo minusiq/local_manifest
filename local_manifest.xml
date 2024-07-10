@@ -11,6 +11,6 @@
         <project path="vendor/realme/RMX2020" name="android_vendor_realme_RMX2020-Q" remote="origin" revision="Qassa" />
 
 	<!-- Kernel Trees -->
-        <project path="kernel/realme/RMX2020" name="android_kernel_realme_RMX2020-Q" remote="master" revision="main" />
+        <project path="kernel/realme/RMX2020" name="android_kernel_realme_RMX2020-Q" remote="origin" revision="main" />
 
 </manifest>
